@@ -1,5 +1,5 @@
 {
-  "name": "andrew-svirin/skype-client-php",
+  "name": "msoftn1/skype-client-php",
   "version": "1.0.0",
   "type": "library",
   "description": "PHP library for interact with Skype.",
